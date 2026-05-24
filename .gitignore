@@ -1,2 +1,14 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
 .env
-venv/
+.chainlit
+.venv
+*.DS_Store
+
+# Python Tools for Visual Studio (PTVS)
+__pycache__
+*.pyc
