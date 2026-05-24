@@ -1,0 +1,35 @@
+# Azure AI & Identity
+azure-ai-inference
+azure-ai-projects
+azure-search-documents
+
+# Microsoft Agent Framework
+agent-framework
+a2a-sdk
+
+# AutoGen Framework
+autogen-agentchat
+autogen-core
+autogen-ext
+autogen-ext[azure]
+
+# Semantic Kernel Framework
+semantic-kernel
+semantic-kernel[azure]
+semantic-kernel[mcp]
+
+# Model Context Protocol
+mcp[cli]
+
+# OpenAI
+openai
+
+# Data & Utilities
+httpx
+ipykernel
+nest-asyncio
+numpy
+pandas
+pillow
+python-dotenv
+uvicorn
